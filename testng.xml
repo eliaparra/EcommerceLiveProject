@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="ecommerce" verbose="1">
+    <test name="liveProject">
+        <classes>
+            <class name="test.TestDayOne"/>
+            <class name="test.TestDayTwo"/>
+            <class name="test.TestDayThree"/>
+            <class name="test.TestDayFour"/>
+            <class name="test.TestDayFive"/>
+            <class name="test.TestDaySix"/>
+           <!-- <class name="test.TestDaySeven"/>
+            <class name="test.TestDayEight"/>
+            <class name="test.TestDayNine"/>
+            <class name="test.TestDayTen"/>
+            <class name="test.TestDayElevenOne"/>
+            <class name="test.TestDayElevenTwo"/>
+            <class name="test.TestDayThriteen"/>
+            <class name="test.TestDayFourteen"/>
+            <class name="test.TestDayFifteen"/>-->
+        </classes>
+    </test>
+</suite>
